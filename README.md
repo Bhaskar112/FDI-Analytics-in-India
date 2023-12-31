@@ -1,4 +1,4 @@
-# FDI-Analiytics-in-India
+# FDI-Analytics-in-India
 ## Problem Statement:
 <p>Investment is a game of understanding historic data of investment objects under
 different events but it is still a game of chances to minimize the risk we apply analytics
