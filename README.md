@@ -16,11 +16,18 @@ You can find the data set in the given link: https://drive.google.com/file/d/1X8
 <li> Data Visualization   : Plotted graphs to get insights about dependent and independent variables. Also used Tableau for data visulization. </li>
 </pre>
 
+## Technologies Used
+   1.Jupyter notebook
+   2.Python
+   3.Pandas
+   4.Matplotlib
+   5.Tableau
+
 ## Tableau Dashboard Link
  <li> FDI Analysis in India from FY 2000-01 to 2016-17: https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/FDIAnalysisinIndiafromFY2000-01to2016-17/Dashboard1
    
 ## Detailed project report
-You can find the project report in the given link: 
+You can find the project report in the given link: https://docs.google.com/presentation/d/1n3HgaswzHn9VYrA87vyX-gGyf3PsiGzw/edit?usp=drive_link&ouid=105259631298940832830&rtpof=true&sd=true
 
 ## Help me Improve
 <p> Hello readers, if you find any bugs, please consider raising issue so that I can address them asap and connect with me on
