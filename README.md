@@ -17,11 +17,13 @@ You can find the data set in the given link: https://drive.google.com/file/d/1X8
 </pre>
 
 ## Technologies Used
-   1.Jupyter notebook
+<pre>
+    1.Jupyter notebook
    2.Python
    3.Pandas
    4.Matplotlib
    5.Tableau
+</pre>
 
 ## Tableau Dashboard Link
  <li> FDI Analysis in India from FY 2000-01 to 2016-17: https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/FDIAnalysisinIndiafromFY2000-01to2016-17/Dashboard1
