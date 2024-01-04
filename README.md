@@ -21,3 +21,7 @@ You can find the data set in the given link: https://drive.google.com/file/d/1X8
    
 ## Detailed project report
 You can find the project report in the given link: 
+
+## Help me Improve
+Hello readers,If you found any bugs please consider raising issue address them asap and connect with me on 
+<a
