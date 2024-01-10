@@ -18,7 +18,7 @@ You can find the data set in the given link: https://drive.google.com/file/d/1X8
 
 ## Technologies Used
 <pre>
-    1.Jupyter notebook
+   1.Jupyter notebook
    2.Python
    3.Pandas
    4.Matplotlib
